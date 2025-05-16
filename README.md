@@ -1,5 +1,5 @@
 Welcome to New Jamal's Gxmes! 
-I have fixed the gxmes that get blocked by chrome and will try to add more.
+I have removed the gxmes that get blocked by chrome and will try to add more games that arn't blocked.
 All listed gxmes work and have been tested as of 5-16-25. 
 To play a gxme, click on the one of your choice, and the find the download icon and click it.'
 You will get a notification saying download complete. Double-click on it to open the gxme. 
