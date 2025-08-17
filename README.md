@@ -6,3 +6,4 @@ You will get a notification saying download complete. Double-click on it to open
 To play the gxme later, push search, type in files, open it, go to downloads, and find the gxme of your choice and double-click on it and it will open.
 The .zip file is cookie clicker. Simply open the file, then the folder, then look through until you find index.html. Then double-click on it and it will open. 
 All of these work as bookmarks.
+On 8-17-25 I added subway surfers. I have not gotten the chance to test it yet to make sure it isn't blocked.
