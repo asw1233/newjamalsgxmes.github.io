@@ -1,0 +1,47 @@
+<html><head><base target="_blank"></head><body><div id="video-container">
+  <button class="play-button" onclick="loadVideo()" style="display: none;">Click Here To Play</button>
+  <div class="video-embed" style="display: block;">
+    <iframe id="video-iframe" width="100%" height="100%" src="https://mod.fnfhub.net/25439/" frameborder="0" allowfullscreen=""></iframe>
+  </div>
+</div>
+
+<style>
+ .play-button {
+   min-width: 100%;
+   font-family: inherit;
+   appearance: none;
+   border: 0;
+   border-radius: 5px;
+   background: #2c2c2c;
+   color: #fff;
+   padding: 18px 46px;
+   font-size: 28px;
+   cursor: pointer;
+ }
+
+ .play-button:hover {
+   background: #3f3f3f;
+ }
+
+ .play-button:focus {
+   outline: none;
+   box-shadow: 0 0 0 4px #cbd6ee;
+ }
+  
+  .play-button {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     height: 100%;
+   }
+</style>
+
+<script>
+  function loadVideo() {
+    var iframe = document.getElementById("video-iframe");
+    iframe.src = "https://mod.fnfhub.net/25439/";
+    
+    document.querySelector('.play-button').style.display = "none";
+    document.querySelector('.video-embed').style.display = "block";
+  }
+</script></body></html>
